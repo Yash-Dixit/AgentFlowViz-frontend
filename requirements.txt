@@ -1,0 +1,6 @@
+streamlit
+streamlit-flow-component
+pandas
+requests
+python-dotenv
+pydantic
